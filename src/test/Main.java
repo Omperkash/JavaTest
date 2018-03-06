@@ -20,7 +20,7 @@ public class Main {
 		
 	  Main()
 		{
-			
+			System.out.println(num);
 			System.out.println(num);
 			System.out.println(ch);
 			System.out.println(b);
